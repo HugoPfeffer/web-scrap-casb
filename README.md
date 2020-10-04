@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-    Script (Made by Hugo Pfeffer)
+    (Made by Hugo Pfeffer)
 </h2>
 
 <p align="center">
@@ -20,14 +20,13 @@
 </br>
 <h2> About </h2>
 
-This script was made during the transition of a website on my work at Fábrica de Criação. We needed to extract the info on the old website and prepare it for the import into the new one.
+This script was made during the transition of a website on my work at <a href="https://criacao-de-site.fabricadecriacao.com.br/">Fábrica de Criação</a>. We needed to extract the info on the old website and prepare it for the import into the new one.
 
 On this project I used the following: 
 
 
 
-</br>
-<h2> <a href="#">Python 3</a></h2>
+<h2> <a href="https://www.python.org">Python 3</a></h2>
 <ul>
     <li>Selenium lib as a main driver for reading and acquiring the info</li>
     <li>xlxswriter lib for writing into the Exel tabs and files</li>
