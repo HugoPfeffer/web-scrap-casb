@@ -1,1 +1,5 @@
 .vscode/settings.json
+*
+!*.py
+!chromedriver.exe
+!geckodriver.exe
